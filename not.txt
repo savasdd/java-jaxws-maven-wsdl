@@ -1,0 +1,6 @@
+proje dizininde komut çalıştırılır: mvn generate-sources
+
+fake wsdl ata: https://www.dataaccess.com/webservicesserver/numberconversion.wso
+
+maven build ayarlanır ve wsdl url kullanılarak generate edilir.
+https://www.dataaccess.com/webservicesserver/numberconversion.wso?WSDL
